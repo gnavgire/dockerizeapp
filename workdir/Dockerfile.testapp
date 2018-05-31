@@ -1,0 +1,3 @@
+FROM ubuntu:latest
+#RUN script bin-req.txt
+COPY testapp /usr/bin/
